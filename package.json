@@ -1,0 +1,14 @@
+{
+  "name": "request-header-parser-microservice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "NonreNN",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
